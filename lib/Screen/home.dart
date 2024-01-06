@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/material/badge.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:project_app/Screen/aluart.dart';
+import 'package:project_app/Screen/alart.dart';
 import 'package:project_app/widgets/catagory.dart';
 
 import '../theme/Colors.dart';
